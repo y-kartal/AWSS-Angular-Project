@@ -119,6 +119,7 @@
           "configurations": {
             "production": {
               "devServerTarget": "my-angular-project:serve:production"
+              
             }
           }
         }
